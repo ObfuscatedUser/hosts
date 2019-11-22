@@ -20,7 +20,7 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 metrics.plex.tv
 0.0.0.0 podcasts.provider.plex.tv
-0.0.0.0 webshows.provider.plex.tv.
+0.0.0.0 webshows.provider.plex.tv
 0.0.0.0 news.provider.plex.tv
 #0.0.0.0 transcoder.plex.tv
 #0.0.0.0 lyricfind.plex.tv 

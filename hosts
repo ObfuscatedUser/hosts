@@ -1,0 +1,99 @@
+# -------------------------------------
+# Hosts contributed by d.vansickle
+# -------------------------------------
+# HDHomeRun
+# 
+0.0.0.0 ipv4-api.hdhomerun.com
+0.0.0.0 location-api.hdhomerun.com
+0.0.0.0 tuner-api.hdhomerun.com
+
+# Unifi
+# added phone-home to the access point firmware 4.0.66 Stable
+# no option to disable it yet
+0.0.0.0 ping.ui.com
+0.0.0.0 unifi-report.ubnt.com
+0.0.0.0 trace.svc.ui.com
+
+# Plex
+# unbound private-domain: "plex.direct"
+# also check https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd
+0.0.0.0 analytics.plex.tv
+0.0.0.0 metrics.plex.tv
+0.0.0.0 podcasts.provider.plex.tv
+0.0.0.0 webshows.provider.plex.tv.
+0.0.0.0 news.provider.plex.tv
+#0.0.0.0 transcoder.plex.tv
+#0.0.0.0 lyricfind.plex.tv 
+
+# Pandora
+# moved to url level filters
+#0.0.0.0 ad.pandora.tv
+#0.0.0.0 ads.pandora.tv.net
+0.0.0.0 stats.pandora.com
+#0.0.0.0 adserver.pandora.com
+
+#Roku
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 tyler.logs.roku.com
+0.0.0.0 giga.logs.roku.com
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 captive.roku.com
+
+# Sonos
+0.0.0.0 msmetrics.ws.sonos.com
+
+# Waze
+0.0.0.0 adsassets.waze.com
+
+# Reolink Camera
+0.0.0.0 p2p.reolink.com
+0.0.0.0 pushx.reolink.com
+
+#sidekick
+0.0.0.0 getsidekick.com
+0.0.0.0 sidekickopen01.com
+0.0.0.0 sidekickopen10.com
+0.0.0.0 sidekickopen11.com
+0.0.0.0 sidekickopen20.com
+0.0.0.0 sidekickopen21.com
+0.0.0.0 sidekickopen30.com
+0.0.0.0 sidekickopen31.com
+0.0.0.0 sidekickopen40.com
+0.0.0.0 sidekickopen41.com
+0.0.0.0 sidekickopen50.com
+0.0.0.0 sidekickopen51.com
+0.0.0.0 sidekickopen60.com
+0.0.0.0 sidekickopen61.com
+0.0.0.0 sidekickopen68.com
+0.0.0.0 sidekickopen70.com
+
+# random testing area
+#0.0.0.0 adthink.com
+#0.0.0.0 android.bugly.qq.com
+#0.0.0.0 api.behavioralengine.com
+#0.0.0.0 ask.com
+#0.0.0.0 audienceinsights.net
+#0.0.0.0 baidu.com
+#0.0.0.0 beacons.gcp.gvt2.com
+#0.0.0.0 ctmail.com
+#0.0.0.0 duapps.com
+#0.0.0.0 events.gfe.nvidia.com
+#0.0.0.0 g.s.360.cn
+#0.0.0.0 isnssdk.com
+#0.0.0.0 liveperson.net
+#0.0.0.0 pulse-prod-gateway.panerabread.com
+#0.0.0.0 mvconf.cloud.360safe.com
+#0.0.0.0 static.audienceinsights.net
+#0.0.0.0 symcb.com
+#0.0.0.0 symcd.com
+#0.0.0.0 tapas.net
+#0.0.0.0 telemetry.gfe.nvidia.com
+#0.0.0.0 trace.svc.ui.com
+#0.0.0.0 update.sdk.jiguang.cn
+#0.0.0.0 watson.telemetry.microsoft.com
+#0.0.0.0 www.meethue.com
+#0.0.0.0 www.nextissue.com
+#0.0.0.0 xdownload.qnap.com
+#0.0.0.0 xtrapath3.izatcloud.net
+#0.0.0.0 xtrapath3.qcomgeo2.com

@@ -2,10 +2,10 @@
 # Hosts contributed by d.vansickle
 # -------------------------------------
 # HDHomeRun
-# 
-#0.0.0.0 ipv4-api.hdhomerun.com
-#0.0.0.0 location-api.hdhomerun.com
-#0.0.0.0 tuner-api.hdhomerun.com
+# remove the block to enable auto firmware updates and debugging
+0.0.0.0 ipv4-api.hdhomerun.com
+0.0.0.0 location-api.hdhomerun.com
+0.0.0.0 tuner-api.hdhomerun.com
 
 # Unifi
 # added phone-home to the access point firmware 4.0.66 Stable

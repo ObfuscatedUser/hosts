@@ -3,9 +3,9 @@
 # -------------------------------------
 # HDHomeRun
 # 
-0.0.0.0 ipv4-api.hdhomerun.com
-0.0.0.0 location-api.hdhomerun.com
-0.0.0.0 tuner-api.hdhomerun.com
+#0.0.0.0 ipv4-api.hdhomerun.com
+#0.0.0.0 location-api.hdhomerun.com
+#0.0.0.0 tuner-api.hdhomerun.com
 
 # Unifi
 # added phone-home to the access point firmware 4.0.66 Stable
@@ -21,7 +21,7 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 metrics.plex.tv
 0.0.0.0 podcasts.provider.plex.tv
-0.0.0.0 webshows.provider.plex.tv
+#0.0.0.0 webshows.provider.plex.tv
 0.0.0.0 news.provider.plex.tv
 #0.0.0.0 transcoder.plex.tv
 #0.0.0.0 lyricfind.plex.tv 

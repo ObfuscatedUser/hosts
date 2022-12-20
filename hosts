@@ -7,6 +7,15 @@
 #0.0.0.0 location-api.hdhomerun.com
 #0.0.0.0 tuner-api.hdhomerun.com
 
+# https://support.apple.com/en-us/HT212614
+# Apple’s guidance to return a “no error answer” or NXDOMAIN response for
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
+0.0.0.0 mask.apple-dns.net
+
+# https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet
+# 0.0.0.0 use-application-dns.net.
+
 # Unifi
 # added phone-home to the access point firmware 4.0.66 Stable
 # no option to disable it yet
